@@ -1,0 +1,480 @@
+North America,Amoxicillin,URTI,1,Strep Pneumo,99
+North America,Amoxicillin,URTI,2,Staph Aureus,15%
+North America,Amoxicillin,URTI,3,E. Coli,25%
+North America,Amoxicillin,LRTI,1,Strep Pneumo,99
+North America,Amoxicillin,LRTI,2,Staph Aureus,15%
+North America,Amoxicillin,LRTI,3,E. Coli,25%
+North America,Amoxicillin,UTI,1,E. Coli,25%
+North America,Amoxicillin,UTI,2,Staph Aureus,15%
+North America,Amoxicillin,UTI,3,Strep Pneumo,99
+North America,Amoxicillin,SSTI,1,Staph Aureus,15%
+North America,Amoxicillin,SSTI,2,E. Coli,25%
+North America,Amoxicillin,SSTI,3,Strep Pneumo,99
+North America,Cephalexin,URTI,1,Strep Pneumo,5%
+North America,Cephalexin,URTI,2,Staph Aureus,10%
+North America,Cephalexin,URTI,3,E. Coli,20%
+North America,Cephalexin,LRTI,1,Strep Pneumo,5%
+North America,Cephalexin,LRTI,2,Staph Aureus,10%
+North America,Cephalexin,LRTI,3,E. Coli,20%
+North America,Cephalexin,UTI,1,E. Coli,20%
+North America,Cephalexin,UTI,2,Staph Aureus,10%
+North America,Cephalexin,UTI,3,Strep Pneumo,5%
+North America,Cephalexin,SSTI,1,Staph Aureus,10%
+North America,Cephalexin,SSTI,2,E. Coli,20%
+North America,Cephalexin,SSTI,3,Strep Pneumo,5%
+North America,Erythromycin,URTI,1,Strep Pneumo,12%
+North America,Erythromycin,URTI,2,Staph Aureus,18%
+North America,Erythromycin,URTI,3,E. Coli,28%
+North America,Erythromycin,LRTI,1,Strep Pneumo,12%
+North America,Erythromycin,LRTI,2,Staph Aureus,18%
+North America,Erythromycin,LRTI,3,E. Coli,28%
+North America,Erythromycin,UTI,1,E. Coli,28%
+North America,Erythromycin,UTI,2,Staph Aureus,18%
+North America,Erythromycin,UTI,3,Strep Pneumo,12%
+North America,Erythromycin,SSTI,1,Staph Aureus,18%
+North America,Erythromycin,SSTI,2,E. Coli,28%
+North America,Erythromycin,SSTI,3,Strep Pneumo,12%
+North America,Penicillin V,URTI,1,Strep Pneumo,3%
+North America,Penicillin V,URTI,2,Staph Aureus,7%
+North America,Penicillin V,URTI,3,E. Coli,9%
+North America,Penicillin V,LRTI,1,Strep Pneumo,3%
+North America,Penicillin V,LRTI,2,Staph Aureus,7%
+North America,Penicillin V,LRTI,3,E. Coli,9%
+North America,Penicillin V,UTI,1,E. Coli,9%
+North America,Penicillin V,UTI,2,Staph Aureus,7%
+North America,Penicillin V,UTI,3,Strep Pneumo,3%
+North America,Penicillin V,SSTI,1,Staph Aureus,7%
+North America,Penicillin V,SSTI,2,E. Coli,9%
+North America,Penicillin V,SSTI,3,Strep Pneumo,3%
+South America,Amoxicillin,URTI,1,Strep Pneumo,10%
+South America,Amoxicillin,URTI,2,Staph Aureus,20%
+South America,Amoxicillin,URTI,3,E. Coli,35%
+South America,Amoxicillin,LRTI,1,Strep Pneumo,10%
+South America,Amoxicillin,LRTI,2,Staph Aureus,20%
+South America,Amoxicillin,LRTI,3,E. Coli,35%
+South America,Amoxicillin,UTI,1,E. Coli,35%
+South America,Amoxicillin,UTI,2,Staph Aureus,20%
+South America,Amoxicillin,UTI,3,Strep Pneumo,10%
+South America,Amoxicillin,SSTI,1,Staph Aureus,20%
+South America,Amoxicillin,SSTI,2,E. Coli,35%
+South America,Amoxicillin,SSTI,3,Strep Pneumo,10%
+South America,Cephalexin,URTI,1,Strep Pneumo,8%
+South America,Cephalexin,URTI,2,Staph Aureus,15%
+South America,Cephalexin,URTI,3,E. Coli,28%
+South America,Cephalexin,LRTI,1,Strep Pneumo,8%
+South America,Cephalexin,LRTI,2,Staph Aureus,15%
+South America,Cephalexin,LRTI,3,E. Coli,28%
+South America,Cephalexin,UTI,1,E. Coli,28%
+South America,Cephalexin,UTI,2,Staph Aureus,15%
+South America,Cephalexin,UTI,3,Strep Pneumo,8%
+South America,Cephalexin,SSTI,1,Staph Aureus,15%
+South America,Cephalexin,SSTI,2,E. Coli,28%
+South America,Cephalexin,SSTI,3,Strep Pneumo,8%
+South America,Erythromycin,URTI,1,Strep Pneumo,15%
+South America,Erythromycin,URTI,2,Staph Aureus,22%
+South America,Erythromycin,URTI,3,E. Coli,35%
+South America,Erythromycin,LRTI,1,Strep Pneumo,15%
+South America,Erythromycin,LRTI,2,Staph Aureus,22%
+South America,Erythromycin,LRTI,3,E. Coli,35%
+South America,Erythromycin,UTI,1,E. Coli,35%
+South America,Erythromycin,UTI,2,Staph Aureus,22%
+South America,Erythromycin,UTI,3,Strep Pneumo,15%
+South America,Erythromycin,SSTI,1,Staph Aureus,22%
+South America,Erythromycin,SSTI,2,E. Coli,35%
+South America,Erythromycin,SSTI,3,Strep Pneumo,15%
+South America,Penicillin V,URTI,1,Strep Pneumo,5%
+South America,Penicillin V,URTI,2,Staph Aureus,12%
+South America,Penicillin V,URTI,3,E. Coli,20%
+South America,Penicillin V,LRTI,1,Strep Pneumo,5%
+South America,Penicillin V,LRTI,2,Staph Aureus,12%
+South America,Penicillin V,LRTI,3,E. Coli,20%
+South America,Penicillin V,UTI,1,E. Coli,20%
+South America,Penicillin V,UTI,2,Staph Aureus,12%
+South America,Penicillin V,UTI,3,Strep Pneumo,5%
+South America,Penicillin V,SSTI,1,Staph Aureus,12%
+South America,Penicillin V,SSTI,2,E. Coli,20%
+South America,Penicillin V,SSTI,3,Strep Pneumo,5%
+Western Europe,Amoxicillin,URTI,1,Strep Pneumo,10%
+Western Europe,Amoxicillin,URTI,2,Staph Aureus,20%
+Western Europe,Amoxicillin,URTI,3,E. Coli,35%
+Western Europe,Amoxicillin,LRTI,1,Strep Pneumo,10%
+Western Europe,Amoxicillin,LRTI,2,Staph Aureus,20%
+Western Europe,Amoxicillin,LRTI,3,E. Coli,35%
+Western Europe,Amoxicillin,UTI,1,E. Coli,35%
+Western Europe,Amoxicillin,UTI,2,Staph Aureus,20%
+Western Europe,Amoxicillin,UTI,3,Strep Pneumo,10%
+Western Europe,Amoxicillin,SSTI,1,Staph Aureus,20%
+Western Europe,Amoxicillin,SSTI,2,E. Coli,35%
+Western Europe,Amoxicillin,SSTI,3,Strep Pneumo,10%
+Western Europe,Cephalexin,URTI,1,Strep Pneumo,8%
+Western Europe,Cephalexin,URTI,2,Staph Aureus,15%
+Western Europe,Cephalexin,URTI,3,E. Coli,28%
+Western Europe,Cephalexin,LRTI,1,Strep Pneumo,8%
+Western Europe,Cephalexin,LRTI,2,Staph Aureus,15%
+Western Europe,Cephalexin,LRTI,3,E. Coli,28%
+Western Europe,Cephalexin,UTI,1,E. Coli,28%
+Western Europe,Cephalexin,UTI,2,Staph Aureus,15%
+Western Europe,Cephalexin,UTI,3,Strep Pneumo,8%
+Western Europe,Cephalexin,SSTI,1,Staph Aureus,15%
+Western Europe,Cephalexin,SSTI,2,E. Coli,28%
+Western Europe,Cephalexin,SSTI,3,Strep Pneumo,8%
+Western Europe,Erythromycin,URTI,1,Strep Pneumo,15%
+Western Europe,Erythromycin,URTI,2,Staph Aureus,22%
+Western Europe,Erythromycin,URTI,3,E. Coli,35%
+Western Europe,Erythromycin,LRTI,1,Strep Pneumo,15%
+Western Europe,Erythromycin,LRTI,2,Staph Aureus,22%
+Western Europe,Erythromycin,LRTI,3,E. Coli,35%
+Western Europe,Erythromycin,UTI,1,E. Coli,35%
+Western Europe,Erythromycin,UTI,2,Staph Aureus,22%
+Western Europe,Erythromycin,UTI,3,Strep Pneumo,15%
+Western Europe,Erythromycin,SSTI,1,Staph Aureus,22%
+Western Europe,Erythromycin,SSTI,2,E. Coli,35%
+Western Europe,Erythromycin,SSTI,3,Strep Pneumo,15%
+Western Europe,Penicillin V,URTI,1,Strep Pneumo,5%
+Western Europe,Penicillin V,URTI,2,Staph Aureus,12%
+Western Europe,Penicillin V,URTI,3,E. Coli,20%
+Western Europe,Penicillin V,LRTI,1,Strep Pneumo,5%
+Western Europe,Penicillin V,LRTI,2,Staph Aureus,12%
+Western Europe,Penicillin V,LRTI,3,E. Coli,20%
+Western Europe,Penicillin V,UTI,1,E. Coli,20%
+Western Europe,Penicillin V,UTI,2,Staph Aureus,12%
+Western Europe,Penicillin V,UTI,3,Strep Pneumo,5%
+Western Europe,Penicillin V,SSTI,1,Staph Aureus,12%
+Western Europe,Penicillin V,SSTI,2,E. Coli,20%
+Western Europe,Penicillin V,SSTI,3,Strep Pneumo,5%
+Eastern Europe,Amoxicillin,URTI,1,Strep Pneumo,10%
+Eastern Europe,Amoxicillin,URTI,2,Staph Aureus,20%
+Eastern Europe,Amoxicillin,URTI,3,E. Coli,35%
+Eastern Europe,Amoxicillin,LRTI,1,Strep Pneumo,10%
+Eastern Europe,Amoxicillin,LRTI,2,Staph Aureus,20%
+Eastern Europe,Amoxicillin,LRTI,3,E. Coli,35%
+Eastern Europe,Amoxicillin,UTI,1,E. Coli,35%
+Eastern Europe,Amoxicillin,UTI,2,Staph Aureus,20%
+Eastern Europe,Amoxicillin,UTI,3,Strep Pneumo,10%
+Eastern Europe,Amoxicillin,SSTI,1,Staph Aureus,20%
+Eastern Europe,Amoxicillin,SSTI,2,E. Coli,35%
+Eastern Europe,Amoxicillin,SSTI,3,Strep Pneumo,10%
+Eastern Europe,Cephalexin,URTI,1,Strep Pneumo,8%
+Eastern Europe,Cephalexin,URTI,2,Staph Aureus,15%
+Eastern Europe,Cephalexin,URTI,3,E. Coli,28%
+Eastern Europe,Cephalexin,LRTI,1,Strep Pneumo,8%
+Eastern Europe,Cephalexin,LRTI,2,Staph Aureus,15%
+Eastern Europe,Cephalexin,LRTI,3,E. Coli,28%
+Eastern Europe,Cephalexin,UTI,1,E. Coli,28%
+Eastern Europe,Cephalexin,UTI,2,Staph Aureus,15%
+Eastern Europe,Cephalexin,UTI,3,Strep Pneumo,8%
+Eastern Europe,Cephalexin,SSTI,1,Staph Aureus,15%
+Eastern Europe,Cephalexin,SSTI,2,E. Coli,28%
+Eastern Europe,Cephalexin,SSTI,3,Strep Pneumo,8%
+Eastern Europe,Erythromycin,URTI,1,Strep Pneumo,15%
+Eastern Europe,Erythromycin,URTI,2,Staph Aureus,22%
+Eastern Europe,Erythromycin,URTI,3,E. Coli,35%
+Eastern Europe,Erythromycin,LRTI,1,Strep Pneumo,15%
+Eastern Europe,Erythromycin,LRTI,2,Staph Aureus,22%
+Eastern Europe,Erythromycin,LRTI,3,E. Coli,35%
+Eastern Europe,Erythromycin,UTI,1,E. Coli,35%
+Eastern Europe,Erythromycin,UTI,2,Staph Aureus,22%
+Eastern Europe,Erythromycin,UTI,3,Strep Pneumo,15%
+Eastern Europe,Erythromycin,SSTI,1,Staph Aureus,22%
+Eastern Europe,Erythromycin,SSTI,2,E. Coli,35%
+Eastern Europe,Erythromycin,SSTI,3,Strep Pneumo,15%
+Eastern Europe,Penicillin V,URTI,1,Strep Pneumo,5%
+Eastern Europe,Penicillin V,URTI,2,Staph Aureus,12%
+Eastern Europe,Penicillin V,URTI,3,E. Coli,20%
+Eastern Europe,Penicillin V,LRTI,1,Strep Pneumo,5%
+Eastern Europe,Penicillin V,LRTI,2,Staph Aureus,12%
+Eastern Europe,Penicillin V,LRTI,3,E. Coli,20%
+Eastern Europe,Penicillin V,UTI,1,E. Coli,20%
+Eastern Europe,Penicillin V,UTI,2,Staph Aureus,12%
+Eastern Europe,Penicillin V,UTI,3,Strep Pneumo,5%
+Eastern Europe,Penicillin V,SSTI,1,Staph Aureus,12%
+Eastern Europe,Penicillin V,SSTI,2,E. Coli,20%
+Eastern Europe,Penicillin V,SSTI,3,Strep Pneumo,5%
+Asia,Amoxicillin,URTI,1,Strep Pneumo,10%
+Asia,Amoxicillin,URTI,2,Staph Aureus,20%
+Asia,Amoxicillin,URTI,3,E. Coli,35%
+Asia,Amoxicillin,LRTI,1,Strep Pneumo,10%
+Asia,Amoxicillin,LRTI,2,Staph Aureus,20%
+Asia,Amoxicillin,LRTI,3,E. Coli,35%
+Asia,Amoxicillin,UTI,1,E. Coli,35%
+Asia,Amoxicillin,UTI,2,Staph Aureus,20%
+Asia,Amoxicillin,UTI,3,Strep Pneumo,10%
+Asia,Amoxicillin,SSTI,1,Staph Aureus,20%
+Asia,Amoxicillin,SSTI,2,E. Coli,35%
+Asia,Amoxicillin,SSTI,3,Strep Pneumo,10%
+Asia,Cephalexin,URTI,1,Strep Pneumo,8%
+Asia,Cephalexin,URTI,2,Staph Aureus,15%
+Asia,Cephalexin,URTI,3,E. Coli,28%
+Asia,Cephalexin,LRTI,1,Strep Pneumo,8%
+Asia,Cephalexin,LRTI,2,Staph Aureus,15%
+Asia,Cephalexin,LRTI,3,E. Coli,28%
+Asia,Cephalexin,UTI,1,E. Coli,28%
+Asia,Cephalexin,UTI,2,Staph Aureus,15%
+Asia,Cephalexin,UTI,3,Strep Pneumo,8%
+Asia,Cephalexin,SSTI,1,Staph Aureus,15%
+Asia,Cephalexin,SSTI,2,E. Coli,28%
+Asia,Cephalexin,SSTI,3,Strep Pneumo,8%
+Asia,Erythromycin,URTI,1,Strep Pneumo,15%
+Asia,Erythromycin,URTI,2,Staph Aureus,22%
+Asia,Erythromycin,URTI,3,E. Coli,35%
+Asia,Erythromycin,LRTI,1,Strep Pneumo,15%
+Asia,Erythromycin,LRTI,2,Staph Aureus,22%
+Asia,Erythromycin,LRTI,3,E. Coli,35%
+Asia,Erythromycin,UTI,1,E. Coli,35%
+Asia,Erythromycin,UTI,2,Staph Aureus,22%
+Asia,Erythromycin,UTI,3,Strep Pneumo,15%
+Asia,Erythromycin,SSTI,1,Staph Aureus,22%
+Asia,Erythromycin,SSTI,2,E. Coli,35%
+Asia,Erythromycin,SSTI,3,Strep Pneumo,15%
+Asia,Penicillin V,URTI,1,Strep Pneumo,5%
+Asia,Penicillin V,URTI,2,Staph Aureus,12%
+Asia,Penicillin V,URTI,3,E. Coli,20%
+Asia,Penicillin V,LRTI,1,Strep Pneumo,5%
+Asia,Penicillin V,LRTI,2,Staph Aureus,12%
+Asia,Penicillin V,LRTI,3,E. Coli,20%
+Asia,Penicillin V,UTI,1,E. Coli,20%
+Asia,Penicillin V,UTI,2,Staph Aureus,12%
+Asia,Penicillin V,UTI,3,Strep Pneumo,5%
+Asia,Penicillin V,SSTI,1,Staph Aureus,12%
+Asia,Penicillin V,SSTI,2,E. Coli,20%
+Asia,Penicillin V,SSTI,3,Strep Pneumo,5%
+Middle East & N. Africa,Amoxicillin,URTI,1,Strep Pneumo,10%
+Middle East & N. Africa,Amoxicillin,URTI,2,Staph Aureus,20%
+Middle East & N. Africa,Amoxicillin,URTI,3,E. Coli,35%
+Middle East & N. Africa,Amoxicillin,LRTI,1,Strep Pneumo,10%
+Middle East & N. Africa,Amoxicillin,LRTI,2,Staph Aureus,20%
+Middle East & N. Africa,Amoxicillin,LRTI,3,E. Coli,35%
+Middle East & N. Africa,Amoxicillin,UTI,1,E. Coli,35%
+Middle East & N. Africa,Amoxicillin,UTI,2,Staph Aureus,20%
+Middle East & N. Africa,Amoxicillin,UTI,3,Strep Pneumo,10%
+Middle East & N. Africa,Amoxicillin,SSTI,1,Staph Aureus,20%
+Middle East & N. Africa,Amoxicillin,SSTI,2,E. Coli,35%
+Middle East & N. Africa,Amoxicillin,SSTI,3,Strep Pneumo,10%
+Middle East & N. Africa,Cephalexin,URTI,1,Strep Pneumo,8%
+Middle East & N. Africa,Cephalexin,URTI,2,Staph Aureus,15%
+Middle East & N. Africa,Cephalexin,URTI,3,E. Coli,28%
+Middle East & N. Africa,Cephalexin,LRTI,1,Strep Pneumo,8%
+Middle East & N. Africa,Cephalexin,LRTI,2,Staph Aureus,15%
+Middle East & N. Africa,Cephalexin,LRTI,3,E. Coli,28%
+Middle East & N. Africa,Cephalexin,UTI,1,E. Coli,28%
+Middle East & N. Africa,Cephalexin,UTI,2,Staph Aureus,15%
+Middle East & N. Africa,Cephalexin,UTI,3,Strep Pneumo,8%
+Middle East & N. Africa,Cephalexin,SSTI,1,Staph Aureus,15%
+Middle East & N. Africa,Cephalexin,SSTI,2,E. Coli,28%
+Middle East & N. Africa,Cephalexin,SSTI,3,Strep Pneumo,8%
+Middle East & N. Africa,Erythromycin,URTI,1,Strep Pneumo,15%
+Middle East & N. Africa,Erythromycin,URTI,2,Staph Aureus,22%
+Middle East & N. Africa,Erythromycin,URTI,3,E. Coli,35%
+Middle East & N. Africa,Erythromycin,LRTI,1,Strep Pneumo,15%
+Middle East & N. Africa,Erythromycin,LRTI,2,Staph Aureus,22%
+Middle East & N. Africa,Erythromycin,LRTI,3,E. Coli,35%
+Middle East & N. Africa,Erythromycin,UTI,1,E. Coli,35%
+Middle East & N. Africa,Erythromycin,UTI,2,Staph Aureus,22%
+Middle East & N. Africa,Erythromycin,UTI,3,Strep Pneumo,15%
+Middle East & N. Africa,Erythromycin,SSTI,1,Staph Aureus,22%
+Middle East & N. Africa,Erythromycin,SSTI,2,E. Coli,35%
+Middle East & N. Africa,Erythromycin,SSTI,3,Strep Pneumo,15%
+Middle East & N. Africa,Penicillin V,URTI,1,Strep Pneumo,5%
+Middle East & N. Africa,Penicillin V,URTI,2,Staph Aureus,12%
+Middle East & N. Africa,Penicillin V,URTI,3,E. Coli,20%
+Middle East & N. Africa,Penicillin V,LRTI,1,Strep Pneumo,5%
+Middle East & N. Africa,Penicillin V,LRTI,2,Staph Aureus,12%
+Middle East & N. Africa,Penicillin V,LRTI,3,E. Coli,20%
+Middle East & N. Africa,Penicillin V,UTI,1,E. Coli,20%
+Middle East & N. Africa,Penicillin V,UTI,2,Staph Aureus,12%
+Middle East & N. Africa,Penicillin V,UTI,3,Strep Pneumo,5%
+Middle East & N. Africa,Penicillin V,SSTI,1,Staph Aureus,12%
+Middle East & N. Africa,Penicillin V,SSTI,2,E. Coli,20%
+Middle East & N. Africa,Penicillin V,SSTI,3,Strep Pneumo,5%
+Sub-Saharan Africa,Amoxicillin,URTI,1,Strep Pneumo,10%
+Sub-Saharan Africa,Amoxicillin,URTI,2,Staph Aureus,20%
+Sub-Saharan Africa,Amoxicillin,URTI,3,E. Coli,35%
+Sub-Saharan Africa,Amoxicillin,LRTI,1,Strep Pneumo,10%
+Sub-Saharan Africa,Amoxicillin,LRTI,2,Staph Aureus,20%
+Sub-Saharan Africa,Amoxicillin,LRTI,3,E. Coli,35%
+Sub-Saharan Africa,Amoxicillin,UTI,1,E. Coli,35%
+Sub-Saharan Africa,Amoxicillin,UTI,2,Staph Aureus,20%
+Sub-Saharan Africa,Amoxicillin,UTI,3,Strep Pneumo,10%
+Sub-Saharan Africa,Amoxicillin,SSTI,1,Staph Aureus,20%
+Sub-Saharan Africa,Amoxicillin,SSTI,2,E. Coli,35%
+Sub-Saharan Africa,Amoxicillin,SSTI,3,Strep Pneumo,10%
+Sub-Saharan Africa,Cephalexin,URTI,1,Strep Pneumo,8%
+Sub-Saharan Africa,Cephalexin,URTI,2,Staph Aureus,15%
+Sub-Saharan Africa,Cephalexin,URTI,3,E. Coli,28%
+Sub-Saharan Africa,Cephalexin,LRTI,1,Strep Pneumo,8%
+Sub-Saharan Africa,Cephalexin,LRTI,2,Staph Aureus,15%
+Sub-Saharan Africa,Cephalexin,LRTI,3,E. Coli,28%
+Sub-Saharan Africa,Cephalexin,UTI,1,E. Coli,28%
+Sub-Saharan Africa,Cephalexin,UTI,2,Staph Aureus,15%
+Sub-Saharan Africa,Cephalexin,UTI,3,Strep Pneumo,8%
+Sub-Saharan Africa,Cephalexin,SSTI,1,Staph Aureus,15%
+Sub-Saharan Africa,Cephalexin,SSTI,2,E. Coli,28%
+Sub-Saharan Africa,Cephalexin,SSTI,3,Strep Pneumo,8%
+Sub-Saharan Africa,Erythromycin,URTI,1,Strep Pneumo,15%
+Sub-Saharan Africa,Erythromycin,URTI,2,Staph Aureus,22%
+Sub-Saharan Africa,Erythromycin,URTI,3,E. Coli,35%
+Sub-Saharan Africa,Erythromycin,LRTI,1,Strep Pneumo,15%
+Sub-Saharan Africa,Erythromycin,LRTI,2,Staph Aureus,22%
+Sub-Saharan Africa,Erythromycin,LRTI,3,E. Coli,35%
+Sub-Saharan Africa,Erythromycin,UTI,1,E. Coli,35%
+Sub-Saharan Africa,Erythromycin,UTI,2,Staph Aureus,22%
+Sub-Saharan Africa,Erythromycin,UTI,3,Strep Pneumo,15%
+Sub-Saharan Africa,Erythromycin,SSTI,1,Staph Aureus,22%
+Sub-Saharan Africa,Erythromycin,SSTI,2,E. Coli,35%
+Sub-Saharan Africa,Erythromycin,SSTI,3,Strep Pneumo,15%
+Sub-Saharan Africa,Penicillin V,URTI,1,Strep Pneumo,5%
+Sub-Saharan Africa,Penicillin V,URTI,2,Staph Aureus,12%
+Sub-Saharan Africa,Penicillin V,URTI,3,E. Coli,20%
+Sub-Saharan Africa,Penicillin V,LRTI,1,Strep Pneumo,5%
+Sub-Saharan Africa,Penicillin V,LRTI,2,Staph Aureus,12%
+Sub-Saharan Africa,Penicillin V,LRTI,3,E. Coli,20%
+Sub-Saharan Africa,Penicillin V,UTI,1,E. Coli,20%
+Sub-Saharan Africa,Penicillin V,UTI,2,Staph Aureus,12%
+Sub-Saharan Africa,Penicillin V,UTI,3,Strep Pneumo,5%
+Sub-Saharan Africa,Penicillin V,SSTI,1,Staph Aureus,12%
+Sub-Saharan Africa,Penicillin V,SSTI,2,E. Coli,20%
+Sub-Saharan Africa,Penicillin V,SSTI,3,Strep Pneumo,5%
+Indian Subcontinent,Amoxicillin,URTI,1,Strep Pneumo,10%
+Indian Subcontinent,Amoxicillin,URTI,2,Staph Aureus,20%
+Indian Subcontinent,Amoxicillin,URTI,3,E. Coli,35%
+Indian Subcontinent,Amoxicillin,LRTI,1,Strep Pneumo,10%
+Indian Subcontinent,Amoxicillin,LRTI,2,Staph Aureus,20%
+Indian Subcontinent,Amoxicillin,LRTI,3,E. Coli,35%
+Indian Subcontinent,Amoxicillin,UTI,1,E. Coli,35%
+Indian Subcontinent,Amoxicillin,UTI,2,Staph Aureus,20%
+Indian Subcontinent,Amoxicillin,UTI,3,Strep Pneumo,10%
+Indian Subcontinent,Amoxicillin,SSTI,1,Staph Aureus,20%
+Indian Subcontinent,Amoxicillin,SSTI,2,E. Coli,35%
+Indian Subcontinent,Amoxicillin,SSTI,3,Strep Pneumo,10%
+Indian Subcontinent,Cephalexin,URTI,1,Strep Pneumo,8%
+Indian Subcontinent,Cephalexin,URTI,2,Staph Aureus,15%
+Indian Subcontinent,Cephalexin,URTI,3,E. Coli,28%
+Indian Subcontinent,Cephalexin,LRTI,1,Strep Pneumo,8%
+Indian Subcontinent,Cephalexin,LRTI,2,Staph Aureus,15%
+Indian Subcontinent,Cephalexin,LRTI,3,E. Coli,28%
+Indian Subcontinent,Cephalexin,UTI,1,E. Coli,28%
+Indian Subcontinent,Cephalexin,UTI,2,Staph Aureus,15%
+Indian Subcontinent,Cephalexin,UTI,3,Strep Pneumo,8%
+Indian Subcontinent,Cephalexin,SSTI,1,Staph Aureus,15%
+Indian Subcontinent,Cephalexin,SSTI,2,E. Coli,28%
+Indian Subcontinent,Cephalexin,SSTI,3,Strep Pneumo,8%
+Indian Subcontinent,Erythromycin,URTI,1,Strep Pneumo,15%
+Indian Subcontinent,Erythromycin,URTI,2,Staph Aureus,22%
+Indian Subcontinent,Erythromycin,URTI,3,E. Coli,35%
+Indian Subcontinent,Erythromycin,LRTI,1,Strep Pneumo,15%
+Indian Subcontinent,Erythromycin,LRTI,2,Staph Aureus,22%
+Indian Subcontinent,Erythromycin,LRTI,3,E. Coli,35%
+Indian Subcontinent,Erythromycin,UTI,1,E. Coli,35%
+Indian Subcontinent,Erythromycin,UTI,2,Staph Aureus,22%
+Indian Subcontinent,Erythromycin,UTI,3,Strep Pneumo,15%
+Indian Subcontinent,Erythromycin,SSTI,1,Staph Aureus,22%
+Indian Subcontinent,Erythromycin,SSTI,2,E. Coli,35%
+Indian Subcontinent,Erythromycin,SSTI,3,Strep Pneumo,15%
+Indian Subcontinent,Penicillin V,URTI,1,Strep Pneumo,5%
+Indian Subcontinent,Penicillin V,URTI,2,Staph Aureus,12%
+Indian Subcontinent,Penicillin V,URTI,3,E. Coli,20%
+Indian Subcontinent,Penicillin V,LRTI,1,Strep Pneumo,5%
+Indian Subcontinent,Penicillin V,LRTI,2,Staph Aureus,12%
+Indian Subcontinent,Penicillin V,LRTI,3,E. Coli,20%
+Indian Subcontinent,Penicillin V,UTI,1,E. Coli,20%
+Indian Subcontinent,Penicillin V,UTI,2,Staph Aureus,12%
+Indian Subcontinent,Penicillin V,UTI,3,Strep Pneumo,5%
+Indian Subcontinent,Penicillin V,SSTI,1,Staph Aureus,12%
+Indian Subcontinent,Penicillin V,SSTI,2,E. Coli,20%
+Indian Subcontinent,Penicillin V,SSTI,3,Strep Pneumo,5%
+South-East Asia,Amoxicillin,URTI,1,Strep Pneumo,10%
+South-East Asia,Amoxicillin,URTI,2,Staph Aureus,20%
+South-East Asia,Amoxicillin,URTI,3,E. Coli,35%
+South-East Asia,Amoxicillin,LRTI,1,Strep Pneumo,10%
+South-East Asia,Amoxicillin,LRTI,2,Staph Aureus,20%
+South-East Asia,Amoxicillin,LRTI,3,E. Coli,35%
+South-East Asia,Amoxicillin,UTI,1,E. Coli,35%
+South-East Asia,Amoxicillin,UTI,2,Staph Aureus,20%
+South-East Asia,Amoxicillin,UTI,3,Strep Pneumo,10%
+South-East Asia,Amoxicillin,SSTI,1,Staph Aureus,20%
+South-East Asia,Amoxicillin,SSTI,2,E. Coli,35%
+South-East Asia,Amoxicillin,SSTI,3,Strep Pneumo,10%
+South-East Asia,Cephalexin,URTI,1,Strep Pneumo,8%
+South-East Asia,Cephalexin,URTI,2,Staph Aureus,15%
+South-East Asia,Cephalexin,URTI,3,E. Coli,28%
+South-East Asia,Cephalexin,LRTI,1,Strep Pneumo,8%
+South-East Asia,Cephalexin,LRTI,2,Staph Aureus,15%
+South-East Asia,Cephalexin,LRTI,3,E. Coli,28%
+South-East Asia,Cephalexin,UTI,1,E. Coli,28%
+South-East Asia,Cephalexin,UTI,2,Staph Aureus,15%
+South-East Asia,Cephalexin,UTI,3,Strep Pneumo,8%
+South-East Asia,Cephalexin,SSTI,1,Staph Aureus,15%
+South-East Asia,Cephalexin,SSTI,2,E. Coli,28%
+South-East Asia,Cephalexin,SSTI,3,Strep Pneumo,8%
+South-East Asia,Erythromycin,URTI,1,Strep Pneumo,15%
+South-East Asia,Erythromycin,URTI,2,Staph Aureus,22%
+South-East Asia,Erythromycin,URTI,3,E. Coli,35%
+South-East Asia,Erythromycin,LRTI,1,Strep Pneumo,15%
+South-East Asia,Erythromycin,LRTI,2,Staph Aureus,22%
+South-East Asia,Erythromycin,LRTI,3,E. Coli,35%
+South-East Asia,Erythromycin,UTI,1,E. Coli,35%
+South-East Asia,Erythromycin,UTI,2,Staph Aureus,22%
+South-East Asia,Erythromycin,UTI,3,Strep Pneumo,15%
+South-East Asia,Erythromycin,SSTI,1,Staph Aureus,22%
+South-East Asia,Erythromycin,SSTI,2,E. Coli,35%
+South-East Asia,Erythromycin,SSTI,3,Strep Pneumo,15%
+South-East Asia,Penicillin V,URTI,1,Strep Pneumo,5%
+South-East Asia,Penicillin V,URTI,2,Staph Aureus,12%
+South-East Asia,Penicillin V,URTI,3,E. Coli,20%
+South-East Asia,Penicillin V,LRTI,1,Strep Pneumo,5%
+South-East Asia,Penicillin V,LRTI,2,Staph Aureus,12%
+South-East Asia,Penicillin V,LRTI,3,E. Coli,20%
+South-East Asia,Penicillin V,UTI,1,E. Coli,20%
+South-East Asia,Penicillin V,UTI,2,Staph Aureus,12%
+South-East Asia,Penicillin V,UTI,3,Strep Pneumo,5%
+South-East Asia,Penicillin V,SSTI,1,Staph Aureus,12%
+South-East Asia,Penicillin V,SSTI,2,E. Coli,20%
+South-East Asia,Penicillin V,SSTI,3,Strep Pneumo,5%
+Oceania,Amoxicillin,URTI,1,Strep Pneumo,10%
+Oceania,Amoxicillin,URTI,2,Staph Aureus,20%
+Oceania,Amoxicillin,URTI,3,E. Coli,35%
+Oceania,Amoxicillin,LRTI,1,Strep Pneumo,10%
+Oceania,Amoxicillin,LRTI,2,Staph Aureus,20%
+Oceania,Amoxicillin,LRTI,3,E. Coli,35%
+Oceania,Amoxicillin,UTI,1,E. Coli,35%
+Oceania,Amoxicillin,UTI,2,Staph Aureus,20%
+Oceania,Amoxicillin,UTI,3,Strep Pneumo,10%
+Oceania,Amoxicillin,SSTI,1,Staph Aureus,20%
+Oceania,Amoxicillin,SSTI,2,E. Coli,35%
+Oceania,Amoxicillin,SSTI,3,Strep Pneumo,10%
+Oceania,Cephalexin,URTI,1,Strep Pneumo,8%
+Oceania,Cephalexin,URTI,2,Staph Aureus,15%
+Oceania,Cephalexin,URTI,3,E. Coli,28%
+Oceania,Cephalexin,LRTI,1,Strep Pneumo,8%
+Oceania,Cephalexin,LRTI,2,Staph Aureus,15%
+Oceania,Cephalexin,LRTI,3,E. Coli,28%
+Oceania,Cephalexin,UTI,1,E. Coli,28%
+Oceania,Cephalexin,UTI,2,Staph Aureus,15%
+Oceania,Cephalexin,UTI,3,Strep Pneumo,8%
+Oceania,Cephalexin,SSTI,1,Staph Aureus,15%
+Oceania,Cephalexin,SSTI,2,E. Coli,28%
+Oceania,Cephalexin,SSTI,3,Strep Pneumo,8%
+Oceania,Erythromycin,URTI,1,Strep Pneumo,15%
+Oceania,Erythromycin,URTI,2,Staph Aureus,22%
+Oceania,Erythromycin,URTI,3,E. Coli,35%
+Oceania,Erythromycin,LRTI,1,Strep Pneumo,15%
+Oceania,Erythromycin,LRTI,2,Staph Aureus,22%
+Oceania,Erythromycin,LRTI,3,E. Coli,35%
+Oceania,Erythromycin,UTI,1,E. Coli,35%
+Oceania,Erythromycin,UTI,2,Staph Aureus,22%
+Oceania,Erythromycin,UTI,3,Strep Pneumo,15%
+Oceania,Erythromycin,SSTI,1,Staph Aureus,22%
+Oceania,Erythromycin,SSTI,2,E. Coli,35%
+Oceania,Erythromycin,SSTI,3,Strep Pneumo,15%
+Oceania,Penicillin V,URTI,1,Strep Pneumo,5%
+Oceania,Penicillin V,URTI,2,Staph Aureus,12%
+Oceania,Penicillin V,URTI,3,E. Coli,20%
+Oceania,Penicillin V,LRTI,1,Strep Pneumo,5%
+Oceania,Penicillin V,LRTI,2,Staph Aureus,12%
+Oceania,Penicillin V,LRTI,3,E. Coli,20%
+Oceania,Penicillin V,UTI,1,E. Coli,20%
+Oceania,Penicillin V,UTI,2,Staph Aureus,12%
+Oceania,Penicillin V,UTI,3,Strep Pneumo,5%
+Oceania,Penicillin V,SSTI,1,Staph Aureus,12%
+Oceania,Penicillin V,SSTI,2,E. Coli,20%
+Oceania,Penicillin V,SSTI,3,Strep Pneumo,5%
